@@ -35,7 +35,7 @@ build/
 
 ### data ###
 .DS_Store
-/mysql/
-/volume-data/
-/data/
-/docker/tempo/tempo-data/
+mysql/
+volume-data/
+data/
+docker/tempo/tempo-data/
